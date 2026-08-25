@@ -90,7 +90,7 @@ Severity thresholds are `Low` below 30, `Medium` from 30–59, `High` from 60–
 Requirements: Python 3.10 or newer. No third-party packages are required.
 
 ```bash
-git clone <your-repository-url>
+git clone <https://github.com/carlsonloo/SOC-COPILOT-V1.git>
 cd soc_copilot_v1
 python -m pip install -r requirements.txt
 python tests.py
